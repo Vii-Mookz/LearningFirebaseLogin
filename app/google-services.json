@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "729600546274",
+    "firebase_url": "https://learningfirebase-d824c.firebaseio.com",
+    "project_id": "learningfirebase-d824c",
+    "storage_bucket": "learningfirebase-d824c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729600546274:android:3416bfc17125a51d",
+        "android_client_info": {
+          "package_name": "com.example.vii_mook.learningfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "729600546274-hm7mkn51aagllm6q54rikelcn3h2tbmg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnJcYpwmZtjJGmZU0Nls5Z5G2tSmcBi4w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

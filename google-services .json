@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1038814395627",
+    "firebase_url": "https://loginfaire.firebaseio.com",
+    "project_id": "loginfaire",
+    "storage_bucket": "loginfaire.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038814395627:android:19d2978894b24f30",
+        "android_client_info": {
+          "package_name": "com.example.vii_mook.firebaselogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1038814395627-1a1a4ssgdipp6rsi03tkisstc0qfkqjn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHu7u_iTmjKS0Hx3FRK2-vUb51zP8WkmM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
